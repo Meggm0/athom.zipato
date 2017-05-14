@@ -1,1 +1,1 @@
-This app adds support for the Zipato zwave plus motion sensor and the Zipato RGBW led bulb to Homey.
+This app adds support for the Zipato zwave plus motion sensor, Zipato RGBW led bulb and RFID mini keypad to Homey.
